@@ -1,0 +1,3 @@
+
+
+go build && ./xml-validator
